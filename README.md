@@ -1,8 +1,6 @@
 <div align="center">
 
-![CrossFire Banner](https://raw.githubusercontent.com/BCAS-Team/CrossFire/main/assets/banner.png)
-
-# ⚡ CrossFire v5.2f1 - Obsidian
+#  CrossFire v5.2f1 - Obsidian
 
 ### *The Universal Package Management Revolution*
 
