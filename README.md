@@ -53,7 +53,7 @@ Join the revolution with our upcoming Module Store - browse, install, and share 
 
 ```bash
 # 🔥 One command to rule them all
-git clone https://github.com/BCAS-Team/CrossFire.git && cd CrossFire && python setup.py --install
+git clone https://github.com/BCAS-Team/CrossFire.git && cd CrossFire && python main.py --setup
 ```
 
 <details>
