@@ -4,7 +4,7 @@
 
 ### *The Universal Package Management Revolution*
 
-[![Version](https://img.shields.io/badge/version-5.2f1-blue.svg?style=for-the-badge)](https://github.com/BCAS-Team/CrossFire/releases)
+[![Version](https://img.shields.io/badge/version-5.3-blue.svg?style=for-the-badge)](https://github.com/BCAS-Team/CrossFire/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg?style=for-the-badge)](https://python.org)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge)](https://github.com/BCAS-Team/CrossFire)
